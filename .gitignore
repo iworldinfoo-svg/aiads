@@ -1,0 +1,10 @@
+# Generated runtime data (SQLite DB, uploads, render output)
+/data/
+/uploads/
+/generated/
+*.db
+*.db-wal
+*.db-shm
+/src/lib/.secret
+.env
+/node_modules/

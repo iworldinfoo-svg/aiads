@@ -1,0 +1,15 @@
+{
+  "name": "ai-ad-video-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "AI Ad Video Studio - continuity-locked AI video ad generator. Node + SQLite foundation (PHP/MySQL portable).",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
